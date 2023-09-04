@@ -1,2 +1,2 @@
-# JAVA_Basics
-Basic Java programs
+# JAVA_BASICS_Operator
+Basic Java calculator
